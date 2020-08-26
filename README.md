@@ -1,2 +1,2 @@
-# prolog
-Notes and exercises made in Programming languages and Methodologies.
+# Prolog
+Notes and exercises made during the course Programming languages and Methodologies.
